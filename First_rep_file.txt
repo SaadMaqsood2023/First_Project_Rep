@@ -4,3 +4,6 @@ I am commiting the file first time.
 Again commiting the file for practice.
 And I am enjoying it.
 Deleted spaces between lines.
+
+I am now making a new branch.
+With new branch you can still work on both branches simantaneously.
